@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cindy Black</h1>
 <h3 align="center">I’m interested in accessibility, machine learning, and writing beautiful code</h3>
 
-- 🔭 I’m currently working on **InterventionDB, a crowd-sourced database for K-12 educators**
+- 🔭 I’m currently researching **Natural Language Processing**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **education-focused and accessibility projects**
 
@@ -23,6 +23,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
+ <p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 <h4>Back End Development</h4>
