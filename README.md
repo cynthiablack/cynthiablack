@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cindy Black</h1>
 <h3 align="center">I’m interested in accessibility, machine learning, and writing beautiful code</h3>
 
-- 🔭 I’m currently working on **InterventionDB**, a crowd-sourced data tracking tool for K-12 educators
+- 🔭 I’m currently working on **Poker Prodigy**, a cross-platform video poker trainer
 
 - 🌱 I’m currently learning **Java**
 
