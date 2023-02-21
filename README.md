@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **InterventionDB**, a crowd-sourced data tracking tool for K-12 educators
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **education-focused and accessibility projects**
 
