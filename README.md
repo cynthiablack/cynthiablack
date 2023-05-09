@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cindy Black</h1>
 <h3 align="center">I’m interested in accessibility, machine learning, and writing beautiful code</h3>
 
-- 🔭 I’m currently working on **Poker Prodigy**, a cross-platform video poker trainer
+- 🔭 I’m currently working on **TikiSpin**, a drink recommendations tool
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **education-focused and accessibility projects**
 
